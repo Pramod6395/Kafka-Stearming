@@ -21,7 +21,7 @@ To validate Zookeeper is the start or not:
 
 To Stop the zookeeper:
 
-    bin/zookeeper-server-start.sh config/zookeeper.properties
+    bin/zookeeper-server-stop.sh config/zookeeper.properties
 
 To start the Kafka server:
 
