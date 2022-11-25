@@ -96,4 +96,10 @@ Step 2: Run the below command,
     bin/kafka-reassign-partitions.sh --bootstrap-server localhost:9092 --reassignment-json-file suggestated.json –execute
 
  
+ To check kafka version:
+
+    bin/kafka-topics.sh --version
+
+   
+
 
